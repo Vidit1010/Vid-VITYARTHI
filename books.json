@@ -1,0 +1,12 @@
+{
+    "1": {
+        "book_id": "1",
+        "title": "Harry Potter",
+        "is_rented": false
+    },
+    "2": {
+        "book_id": "2",
+        "title": "Atomic Habits",
+        "is_rented": true
+    }
+}
